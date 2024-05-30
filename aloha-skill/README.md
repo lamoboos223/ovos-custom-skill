@@ -28,3 +28,5 @@ pip install msk
 msk create
 cd /home/ovos/.local/share/mycroft/skills/<skill-name>
 ```
+
+anything you say from the `aloha-skill/vocab/en-us/AlohaKeyword.voc` it will activate the skill and send an http request
