@@ -6,3 +6,5 @@
 - https://openvoiceos.github.io/community-docs/120-selene_backend/
 - https://github.com/orgs/OpenVoiceOS/repositories?q=skill&type=all&language=&sort=
 - https://openvoiceos.github.io/community-docs/081-ht_skills_install/
+
+> this project will be deprcated because `faster whisper` is much better.
